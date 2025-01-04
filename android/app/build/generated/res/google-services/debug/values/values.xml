@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1072462027582</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnXKohnqnvzdb8gGlvVlfRH5n2Aj-dubQ</string>
+    <string name="google_app_id" translatable="false">1:1072462027582:android:ecb9af743eed2ea3d4ea6f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnXKohnqnvzdb8gGlvVlfRH5n2Aj-dubQ</string>
+    <string name="google_storage_bucket" translatable="false">moviemeter-66733.firebasestorage.app</string>
+    <string name="project_id" translatable="false">moviemeter-66733</string>
+</resources>
