@@ -9,10 +9,6 @@ app = Flask(__name__)
 
 # PostgreSQL database configuration
 DB_CONFIG = {
-    'dbname': 'moviemeter_db',  # Name of your database
-    'user': 'postgres',         # Your PostgreSQL username
-    'password': 'Flowers12',    # Your PostgreSQL password
-    'host': 'localhost',        # Host (use 'localhost' for local development)
     'port': 5432                # Default PostgreSQL port
 }
 
